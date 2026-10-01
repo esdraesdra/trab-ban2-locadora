@@ -38,14 +38,6 @@ DB_CONFIG = {
 }
 ```
 
-## Dependências
-
-```
-python -m pip install -r requirements.txt
-```
-
-No Windows, use `py` no lugar de `python` caso o comando não seja reconhecido.
-
 ## Execução
 
 ```
